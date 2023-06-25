@@ -1,0 +1,15 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "A node server with http package",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "BeaOD",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
